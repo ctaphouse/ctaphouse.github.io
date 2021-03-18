@@ -1,4 +1,4 @@
-## Home Of Taphouse Consulting
+## Notable Quotes
 
 As Gino Vannelli said:
 
