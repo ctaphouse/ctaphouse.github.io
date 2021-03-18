@@ -3,7 +3,7 @@
 As Gino Vannelli said:
 
 > With every step and very breath
-> it's further from youth and closer to death
+> it's farther (english wonks would probably say "further") from youth and closer to death
 
 You can use the [editor on GitHub](https://github.com/ctaphouse/ctaphouse.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
